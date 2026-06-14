@@ -1,21 +1,22 @@
 {
-  "name": "プロラボ モンスターズ",
-  "short_name": "プロラボ",
-  "description": "今日の一言を書いて、四神を目指せ。",
-  "start_url": "./index.html",
+  "name": "申し送りシステム｜プロラボ加古川校",
+  "short_name": "申し送り",
+  "description": "プロラボ加古川校 申し送り記録アプリ",
+  "start_url": "/prolabo-kaikou/index.html",
+  "scope": "/prolabo-kaikou/",
   "display": "standalone",
-  "background_color": "#0f0e17",
-  "theme_color": "#7c6ff7",
+  "background_color": "#f0f4f8",
+  "theme_color": "#1a3a5c",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/prolabo-kaikou/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "/prolabo-kaikou/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
